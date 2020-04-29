@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Navegation Drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_principal">Principal</string>
+    <string name="menu_servicos">Serviços</string>
+    <string name="menu_clientes">Clientes</string>
+    <string name="menu_contato">Contato</string>
+    <string name="menu_sobre">Sobre</string>
+
+
+    <string name="navegacao_titulo">ATM Consultoria</string>
+    <string name="navegacao_email">atendimento@atmconsultoria.com.br</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="titulo1_servicos">Sistema de gestão de qualidade</string>
+    <string name="texto1_servicos">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Cur tantas regiones barbarorum pedibus obiit, tot maria transmisit? Bonum incolumis acies: misera caecitas. Hunc vos beatum;
+        Duo Reges: constructio interrete. Nobis aliter videtur, recte secusne, postea;
+        Tu quidem reddes; Sullae consulatum?
+        Nos commodius agimus. Respondent extrema primis, media utrisque, omnia omnibus.
+    </string>
+    <string name="titulo2_servicos">Indicadores de Desempenho</string>
+    <string name="texto2_servicos">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Cur tantas regiones barbarorum pedibus obiit, tot maria transmisit? Bonum incolumis acies: misera caecitas. Hunc vos beatum;
+        Duo Reges: constructio interrete. Nobis aliter videtur, recte secusne, postea;
+        Tu quidem reddes; Sullae consulatum?
+        Nos commodius agimus. Respondent extrema primis, media utrisque, omnia omnibus.
+    </string>
+
+    <string name="titulo1_clientes">Clientes</string>
+    <string name="titulo2_clientes">Cielo</string>
+    <string name="titulo3_clientes">Braskem</string>
+    <string name="titulo4_clientes">Gerdau</string>
+    <string name="titulo5_clientes">Embraer</string>
+    <string name="titulo6_clientes">Natura</string>
+    <string name="titulo7_clientes">Lojas Americanas</string>
+
+    <string name="texto1_clientes">
+        Em mais de 15 anos de existência a ATM acumula experência
+        em seriços de consultoria para empresa nacionais e multinacionais
+        de diversos portes, tendo atendido mais de 1000 empresas desde sua
+        abertura.
+    </string>
+
+</resources>
