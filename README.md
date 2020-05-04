@@ -9,7 +9,7 @@
       <li>Kotlin</li>
       </ul>
     <li> Usar o plugin Android-about-page</li>
-         >implementation 'com.github.medyo:android-about-page:1.2.5'
+         > implementation 'com.github.medyo:android-about-page:1.2.5'
     <li> Criar Packge UI</>
     <li> Permitir acesso para ligações</>
     <li> Permitir acesso para ao e-mail</>
