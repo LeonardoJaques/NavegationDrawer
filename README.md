@@ -4,7 +4,7 @@
   
   <ul>
     <ul>
-      <b>Horas de projeto: 32h</b>
+      <b><li>Horas de projeto: 32h</b></li>
       <li>Android Studio</li>
       <li>Kotlin</li>
       </ul>
